@@ -2,4 +2,4 @@
 
 Normaler text
 
-![test](/blog-drafts/assets/Vitovalor 300-P_00016.jpg)
+![test](https://github.com/UtzM/blog-drafts/raw/master/assets/Vitovalor%20300-P_00016.jpg)
