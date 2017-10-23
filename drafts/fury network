@@ -1,18 +1,11 @@
 ---
-title: Energiemarktkommunikation der Zukunft (Konferenz)
-category: news
-date: 2017-10-23 22:44:15
-tags:
- - konferenz
- - stromdao
- - veranstaltung
- - energiemarktkommunikation
- - energiewirtschaft
- - Digitalisierung 
- - Chance
+title: hello world
 ---
-![Procom Energiemarkttage](https://github.com/UtzM/blog-drafts/raw/master/assets/Agenda-ProCom-Energiemarkt-Tage-2017.png)
-Vom 29. bis 30.November 2017 veranstaltet die ProCom GmbH in Berlin eine Fachkonferenz zu den Chancen der Digitalisierung in der Energiewirtschaft [ProCom Energiemarkttage](https://www.procom.de/emt/energie.html). Und die **STROM**DAO gewährt einen Einblick in die Energiemarktkommunikation der Zukunft auf Basis der Blockchain-Technologie. Referent Manuel Utz nimmt die Teilnehmer der Konferenz direkt von der Kommandozeile mit ins **STROM**DAO *Stromkonto* und zeigt hands-on wie eine neue, dezentrale Marktkommunikation in der Energiewirtschaft aussehen kann. 
+## fury network is the boutique blockchain for the energy industry!
+This online IDE (integrated development enviornment) can be used to design and test applications based on the **STROM**DAO [energyblockchain](https://github.com/energychain/Docker-EnergyChainNode) using html or javascript.
+The **STROM**DAO [business object](https://github.com/energychain/StromDAO-BusinessObject) is loaded with each application by default.
 
-### Titel des Vortrags
-> Energiemarkt auf Augenhöhe - wie die Blockchain-Technologie eine diskriminierungsfreie Energiemarktkommunikation schafft.
+## fury network makes it possible for the first time to program new energy blockchain applications directly from the browser
+
+### Happy hacking! Your **STROM**DAO team!
+
